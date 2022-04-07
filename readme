@@ -5,6 +5,6 @@
 + 依赖python3 CnOCR包
 
 ```
-pip install CnOCR
+pip install  cnocr
 ./ocr.sh /path/to/ocr_pic path/to/result.txt
 ```
