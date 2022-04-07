@@ -1,0 +1,10 @@
+# 新冠核酸截图识别检测
+=====
+
++ 适用于来自支付宝、健康云的新冠核酸检测截图
++ 依赖python3 CnOCR包
+
+```
+pip install CnOCR
+./ocr.sh /path/to/ocr_pic path/to/result.txt
+```
